@@ -153,6 +153,8 @@ Revenue and performance benchmarking
 Data analytics and Power BI portfolio projects
 
 Academic and business intelligence case studies
+
+
 ---
 
 
