@@ -48,9 +48,9 @@ python scripts/generate_charts.py
 ## Screenshots
 Add screenshots to the `screenshots/` directory and reference them here. Example images are shown below — replace these with your own report images.
 
-![Screenshot 1](screenshots/Screenshot 2025-12-26 141910.png)
+![Screenshot 1](screenshots/Screenshot-1.png)
 
-![Screenshot 2](screenshots/Screenshot 2025-12-26 141915.png)
+![Screenshot 2](screenshots/Screenshot-2.png)
 
 To add more screenshots, create the `screenshots/` folder and commit images. You can embed images using standard markdown as shown above.
 
