@@ -157,9 +157,7 @@ Academic and business intelligence case studies
 
 ## Google drive link
 
-https://drive.google.com/file/d/1VofPs6tal6OgDlI_r5xFOW_SLRhep3vz/view?usp=drive_link
-https://drive.google.com/file/d/1vv4LfOQs0D4GABSBDFkiQDM8Dqzr4WuD/view?usp=drive_link,
-https://docs.google.com/presentation/d/1LveT5Teva6n37viCij6J2vxTzG0eB_tM/edit?usp=drive_link&ouid=108426022065190021286&rtpof=true&sd=true
+
 
 ---
 
