@@ -155,9 +155,11 @@ Data analytics and Power BI portfolio projects
 Academic and business intelligence case studies
 ---
 
+
+
 ## Google drive link
 
-
+https://drive.google.com/drive/folders/1R0wn3ue9I19Cm1pI3j5Ymx8EXNPYkh13?usp=drive_link
 
 ---
 
