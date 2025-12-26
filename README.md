@@ -44,27 +44,17 @@ Example to run a script:
 ```bash
 python scripts/generate_charts.py
 ```
-
+---
 ## Screenshots
-Add screenshots to the `screenshots/` directory and reference them here. Example images are shown below — replace these with your own report images.
-
+## Dashboard 1
 ![Screenshot 1](screenshots/Screenshot-1.png)
 
+## Dashboard 2
 ![Screenshot 2](screenshots/Screenshot-2.png)
 
-To add more screenshots, create the `screenshots/` folder and commit images. You can embed images using standard markdown as shown above.
+---
 
-## Project Structure (suggested)
-````text
-Movie_insight_Report/
-├── notebooks/           # Jupyter notebooks with analysis
-├── scripts/             # Python scripts to run analyses and generate charts
-├── data/                # Raw and processed datasets (do NOT commit large raw files)
-├── outputs/             # Generated figures and report assets
-├── screenshots/         # Example screenshots used in README
-├── requirements.txt
-└── README.md
-````
+
 
 ## Contributing
 Contributions are welcome. Please open an issue first to discuss major changes and follow these steps:
@@ -73,14 +63,9 @@ Contributions are welcome. Please open an issue first to discuss major changes a
 3. Commit your changes and push to your fork
 4. Open a pull request describing your changes
 
-## License
-Specify a license for your project (e.g., MIT). If you don't have one yet, add a `LICENSE` file.
 
 ## Contact
 - Maintainer: Krishnkundan
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/krishnkundan)  <!-- Replace with your actual LinkedIn URL -->
-- Email: your-email@example.com  <!-- Replace with your email or remove if you prefer not to share -->
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/krishn-kundan-bhardwaj-9804a6295/) 
 
 ---
-
-Replace any placeholder text (dataset sources, scripts names, contact info) with the actual details for your project.
